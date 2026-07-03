@@ -1,0 +1,3 @@
+Perkenalkan, nama saya M. Hafidh Al-Qadri, Saya mengikuti bootcamp ini untuk memahami dasar-dasar AI dan coding, serta menambah wawasan dan pengalaman agar memiliki keterampilan yang bermanfaat untuk masa depan.
+Alasan Saya mengikuti AI & Vibes Coding Bootcamp karena ingin memahami konsep dasar AI,dan mempelajari cara memanfaatkan AI dalam proses coding. Selain itu, saya ingin belajar dari mentor yang berpengalaman dan berdiskusi dengan peserta lain yang memiliki minat yang sama.
+Tujuan utama saya adalah menguasai dasar-dasar AI, dan memperoleh pengalaman dan portofolio yang dapat menjadi bekal untuk pengembangan karier di bidang teknologi. Saya berharap setelah mengikuti bootcamp ini, saya mamou terus mengembangkan kemampuan saya di bidang AI.
